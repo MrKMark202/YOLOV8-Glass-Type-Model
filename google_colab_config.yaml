@@ -1,0 +1,49 @@
+
+path: '/content/gdrive/My Drive/Colab Notebooks/Glass model/data' # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train # val images (relative to 'path')
+
+# Classes
+names:
+  
+    0: Martini glass
+    1: Shots glass
+    2: Champagne glass
+    3: Red wine glass
+    4: White wine glass
+    5: Irish coffee glass
+    6: Vodka glass
+    7: Shooter glass
+    8: Balcoon wine glass
+    9: Tulip whisky glass
+    10: Margarita glass
+    11: Champagne choupe glass
+    12: Wine tasting glass
+    13: Sherry glass
+    14: Pilsner glass
+    15: Pint glass
+    16: Weizen glass
+    17: Zombie Glass
+    18: Rocks glass
+    19: Cosmopolitan glass
+    20: Beer mug glass
+    21: Goblet glass
+    22: Pokal glass
+    23: Milkshake glass
+    24: Hurricane glass
+    25: Poco grande glass
+    26: Brandy snifter glass
+    27: Tulip glass
+    28: Grappa glass
+    29: Cordial glass
+    30: Abshinte glass
+    31: Highball glass
+    32: Colins glass
+    33: Sling glass
+    34: Embasy flute glass
+    35: Embasy water goblet glass
+    36: Desert/grapefruit glass
+    37: Caviar server glass
+    38: Champagne flute glass
+    39: Beverage glass
+    40: Seidel glass
