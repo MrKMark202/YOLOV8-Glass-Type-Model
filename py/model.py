@@ -1,6 +1,9 @@
 import os
 from ultralytics import YOLO
 
+# Create a new model
+# model = YOLO("yolov8n.yaml")  # build a new model from scratch
+
 # Load a model
 model = YOLO("./best.pt")  # load a pretrained model (recommended for training)
 
