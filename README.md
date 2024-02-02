@@ -49,3 +49,10 @@
 <p>
     Za detekciju vrsta čaša sam koristio modele za prepoznavanje preko jedne slike, preko više slika putem foldera, renderiranje videozapisa i preko kamere.
 </p>
+
+## YOUTUBE LINK
+
+### RH: Ovo je link za videoprezentaciju projekta (Na enkleskom jeziku)
+### EN: This is videopresentation about this project.
+
+<a>https://www.youtube.com/watch?v=DPrIBf7aF3Q</a>
